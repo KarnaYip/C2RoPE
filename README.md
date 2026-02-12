@@ -1,6 +1,6 @@
 # C^2ROPE: Causal Continuous Rotary Positional Encoding for 3D Large Multimodal-Models Reasoning
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2601.20520-b31b1b.svg?logo=arXiv)](https://arxiv.org) <a href="https://arxiv.org"></a> 
+[![arXiv](https://img.shields.io/badge/Arxiv-2601.10551-b31b1b.svg?logo=arXiv)](https://arxiv.org) <a href="https://arxiv.org"></a> 
 
 
 > **[C^2ROPE: Causal Continuous Rotary Positional Encoding for 3D Large Multimodal-Models Reasoning](https://arxiv.org)**<br>
